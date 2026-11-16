@@ -1,0 +1,43 @@
+{
+  "name": "pendulum-watch",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "Pendulum",
+    "uuid": "5239587c-2a27-4149-b773-27fec65d1fef",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "TextColor",
+      "HourColor",
+      "MinuteColor",
+      "TimeFormat",
+      "DateFormat",
+      "Labels",
+      "DigitalTime",
+      "SmoothMotion"
+    ],
+    "resources": {
+      "media": []
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

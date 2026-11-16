@@ -1,0 +1,1 @@
+{"date": "2026-11-08", "project": "pendulum-watch", "effort": "extended", "what_constrained": "Deterministic poses versus live animation and stale SDK state", "what_worked": "Independent model/native checks plus production motion observation", "what_differently": "Reset stale emulator before live production checks"}

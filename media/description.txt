@@ -1,0 +1,19 @@
+A little clockwork on your wrist.
+
+Pendulum pairs a compact analog dial with a swinging seconds bob. The clock hands show hours and minutes; the bob can carry the seconds number.
+
+Motion:
+• Tick-tock mode alternates sides once per second.
+• Optional smooth swing adds intermediate positions.
+• Show or hide the seconds number inside the bob.
+
+Make it yours:
+• Six palettes: Night, Paper, Mint, Ice, Rose, and Monochrome.
+• Custom background, text, hour-and-bob, and minute-hand colors.
+• Watch default, 12-hour, or 24-hour numeric time.
+• Optional digital time below the pendulum.
+• Optional date: YYYY-MM-DD, MM/DD/YYYY, or DD/MM/YYYY.
+
+Designed for Pebble Time 2 and Pebble Round 2. Settings are available through the Pebble app. No phone service is needed for timekeeping.
+
+The first gallery image demonstrates the smooth-swing option in six palettes. The installed face defaults to tick-tock motion and keeps the palette you choose.
